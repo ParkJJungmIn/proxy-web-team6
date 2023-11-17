@@ -2,6 +2,7 @@
 KangCheolgu is clone
 # CS:APP Proxy Lab
 #
+KimJinTae is clonde
 # Student Source Files
 ####################################################################
 
